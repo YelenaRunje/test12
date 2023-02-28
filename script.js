@@ -1,1 +1,1 @@
-console.log("pozdrav!");
+alert("pozdrav!");
